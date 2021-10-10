@@ -6,7 +6,7 @@ I'm passionate about learning new languages and tools that help me to create new
 
 I enjoy cooperating with multidisciplinary teams in purposeful projects!
 
-- 📫 Reach me:
+📫 Feel free to reach me:
 
 <a href="https://www.linkedin.com/in/vin%C3%ADcius-zamariola/">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
@@ -33,21 +33,25 @@ I enjoy cooperating with multidisciplinary teams in purposeful projects!
 ### Technologies
 
 All
+<br />
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 Data science
+<br />
 [MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 Frontend
+<br />
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zamariolo&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamariolo&hide=TeX&layout=compact)
+
+## Projects
 
 <!--
 **Zamariolo/zamariolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
