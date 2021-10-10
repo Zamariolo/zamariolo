@@ -6,14 +6,19 @@ I enjoy cooperating with multidisciplinary teams in purposeful projects!
 
 - 📫 Reach me:
 
+<a href="https://www.linkedin.com/in/vin%C3%ADcius-zamariola/">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a>
 
-![Linkeding badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="mailto:viniciuszamariola@gmail.com">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+</a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:viniciuszamariola@gmail.com)
+![](https://visitor-badge.glitch.me/badge?page_id=zamariolo.zamariolo)
+
+<br />
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 <!--
