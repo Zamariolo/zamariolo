@@ -24,7 +24,7 @@ I enjoy cooperating with multidisciplinary teams in purposeful projects!
 
 <br />
 
-### Languages
+## Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&?style=for-the-badge)
@@ -33,7 +33,7 @@ I enjoy cooperating with multidisciplinary teams in purposeful projects!
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
 
-### Tools
+## Tools
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=flat&logo=spyder%20ide&logoColor=maroon)
@@ -43,7 +43,7 @@ I enjoy cooperating with multidisciplinary teams in purposeful projects!
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
 
-### Technologies
+## Technologies
 
 
 #### All
