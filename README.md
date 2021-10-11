@@ -12,6 +12,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=zamariolo.zamariolo)
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### I'm the founder, manager and data analyst at [Mogi Open Data](https://mogiopendata.com.br/) and frontend developer at [Mova](https://mova.vc/). 
 
@@ -21,8 +22,6 @@ I enjoy cooperating with multidisciplinary teams in purposeful projects!
 
 
 <br />
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -48,6 +47,7 @@ I enjoy cooperating with multidisciplinary teams in purposeful projects!
 
 #### All
 <br />
+
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
@@ -76,6 +76,7 @@ I enjoy cooperating with multidisciplinary teams in purposeful projects!
 
 #### Frontend
 <br />
+
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
