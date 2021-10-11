@@ -73,11 +73,12 @@ I'm passionate about learning new languages and tools that help me to create new
 
 ## Projects 
 
-Todo:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamariolo&hide=TeX&layout=compact)
 
+Todo:
 - [ ] Translate all repositories to english;
 - [ ] Add readme files to all repositories;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamariolo&hide=TeX&layout=compact)
+
 
 
 
