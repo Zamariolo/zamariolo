@@ -75,26 +75,26 @@ I'm passionate about learning new languages and tools that help me to create new
 
 Todo:
 
-![ ] Translate all repositories to english;
-![ ] Add readme files to all repositories;
+! - [ ] Translate all repositories to english; - [ ] Add readme files to all repositories;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamariolo&hide=TeX&layout=compact)
 
 
 
+### Data science projects 📈
 
-### Data science projects
+- **[Mogi Open Data](https://mogiopendata.com.br/):** Data science platform, open data catalog and dashboards for local public data
 
-### Frontend projects
+### Frontend projects 🕹
 
 - **[NuxtJS Country rest app](https://github.com/Zamariolo/bandeiras-exemplo-nuxtjs):** Simple app as a interface for country rest api in portuguese using NuxtJS;
 - **[VueJS Country rest app](https://github.com/Zamariolo/Mova-Aplicativo-Paises):** Simple app as a interface for country rest api in portuguese using VueJS (same project as above);
 - **[PHP linear regression website](https://github.com/Zamariolo/LinearRegression-in-PHP-with-RubixML-php):** A simple application that generates random linear data and apply RubixML for linear regression.
 
-### Python projects
+### Python projects 🐍
 - **[PyQT5 simple calculator](https://github.com/Zamariolo/CalculadoraPyQt5):** A simple calculator made in Python using PyQT5;
 - **[API creation using Python and MLops folder architecture](https://github.com/Zamariolo/Deploy_API_Python):** A dummy data science project with DS folder architecture and files for deploy the ML model as api.
 
 
-### Other
+### Other 
 - **[STC - Heat exchanger simulator](https://github.com/Zamariolo/STC):** Python app for plate heat exchanger project;
 - **[C Sudoku Solver](https://github.com/Zamariolo/SudokuSolver):** Software to solve sudoku game made in C language.
