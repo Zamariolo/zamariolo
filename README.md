@@ -74,14 +74,12 @@ I'm passionate about learning new languages and tools that help me to create new
 ## Projects 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamariolo&hide=TeX&layout=compact)
 
-------
-## Current project
--------
-
 
 ### Data science projects
 
 ### Frontend projects
+
+- **[Country rest api app](https://github.com/Zamariolo/bandeiras-exemplo-nuxtjs)**
 
 ### Python projects
 
