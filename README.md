@@ -72,11 +72,14 @@ I'm passionate about learning new languages and tools that help me to create new
 
 
 ## Projects 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamariolo&hide=TeX&layout=compact)
 
 Todo:
 
-- [ ] Translate all repositories to english ;
+![ ] Translate all repositories to english;
+![ ] Add readme files to all repositories;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamariolo&hide=TeX&layout=compact)
+
+
 
 
 ### Data science projects
@@ -92,23 +95,6 @@ Todo:
 - **[API creation using Python and MLops folder architecture](https://github.com/Zamariolo/Deploy_API_Python):** A dummy data science project with DS folder architecture and files for deploy the ML model as api.
 
 
-*** Other
+### Other
 - **[STC - Heat exchanger simulator](https://github.com/Zamariolo/STC):** Python app for plate heat exchanger project;
 - **[C Sudoku Solver](https://github.com/Zamariolo/SudokuSolver):** Software to solve sudoku game made in C language.
-
-<!--
-**Zamariolo/zamariolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
