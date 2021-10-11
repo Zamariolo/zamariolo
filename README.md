@@ -12,9 +12,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=zamariolo.zamariolo)
 
+### I'm the founder, manager and data analyst at [Mogi Open Data](https://mogiopendata.com.br/) and frontend developer at [Mova](https://mova.vc/). 
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-### I'm the founder, manager and data analyst at [Mogi Open Data](https://mogiopendata.com.br/) and frontend developer at [Mova](https://mova.vc/). 
 
 I'm passionate about learning new languages and tools that help me to create new projects, products or services for my ideas. I also made projects and research in chemical engineering field involving industry simulations, fault tolerant control algorithms, SCADA applications with PyQt and C code generation for Arduino.
 
@@ -26,7 +27,7 @@ I enjoy cooperating with multidisciplinary teams in purposeful projects!
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
