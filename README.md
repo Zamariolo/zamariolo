@@ -75,8 +75,8 @@ I'm passionate about learning new languages and tools that help me to create new
 
 Todo:
 
-- [ ] Translate all repositories to english; 
-- [ ] - [ ] Add readme files to all repositories;
+- [ ] Translate all repositories to english;
+- [ ] Add readme files to all repositories;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamariolo&hide=TeX&layout=compact)
 
 
