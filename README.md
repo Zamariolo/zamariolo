@@ -19,7 +19,7 @@
 
 I'm passionate about learning new languages and tools that help me to create new projects, products or services for my ideas. I also made projects and research in chemical engineering field involving industry simulations, fault tolerant control algorithms, SCADA applications with PyQt and C code generation for Arduino.
 
-I enjoy cooperating with multidisciplinary teams in purposeful projects!
+#### I enjoy cooperating with multidisciplinary teams in purposeful projects!
 
 
 <br />
@@ -73,6 +73,17 @@ I enjoy cooperating with multidisciplinary teams in purposeful projects!
 
 ## Projects
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamariolo&hide=TeX&layout=compact)
+
+< hr />
+## Current project
+< hr />
+
+
+### Data science projects
+
+### Frontend projects
+
+### Python projects
 
 
 <!--
