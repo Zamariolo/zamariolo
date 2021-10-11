@@ -24,7 +24,7 @@ I'm passionate about learning new languages and tools that help me to create new
 
 <br />
 
-## Languages
+## Languages 💭
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&?style=for-the-badge)
@@ -33,7 +33,7 @@ I'm passionate about learning new languages and tools that help me to create new
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
 
-## Technologies
+## Technologies 🖥
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
@@ -60,7 +60,7 @@ I'm passionate about learning new languages and tools that help me to create new
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 
-## Tools
+## Tools 🔨
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=flat&logo=spyder%20ide&logoColor=maroon)
@@ -71,12 +71,12 @@ I'm passionate about learning new languages and tools that help me to create new
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
 
 
-## Projects
+## Projects 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamariolo&hide=TeX&layout=compact)
 
-< hr />
+<hr />
 ## Current project
-< hr />
+<hr />
 
 
 ### Data science projects
