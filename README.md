@@ -12,7 +12,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=zamariolo.zamariolo)
 
-## Founder and data analyst at [Mogi Open Data](https://mogiopendata.com.br/) and frontend developer at [Mova](https://mova.vc/)
+## Founder and data analyst at [Mogi Open Data](https://mogiopendata.com.br/) and ex-frontend developer at [Mova](https://mova.vc/)
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
