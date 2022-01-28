@@ -17,7 +17,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-I'm passionate about learning new languages and tools that help me to create new projects, products or services for my ideas. I also made projects and research in chemical engineering field involving industry simulations, fault tolerant control algorithms, SCADA applications with PyQt and C code generation for Arduino.
+I'm passionate about learning new languages and tools that help me to create new projects, products or services for my ideas. Experience in data analysis, data pipelines, OPC servers, optimization and GUI development in Python. Also, experience in frontend development in VueJS and digital accessibility, PowerBI and SQL.
 
 #### I enjoy cooperating with multidisciplinary teams in purposeful projects!
 
